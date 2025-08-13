@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Lucas Nguyen',
 
   // open graph metadata (optional)
-  description: 'StudyNot(es)',
+  description: 'Fag- og studieressurser',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
